@@ -1,0 +1,19 @@
+# Ignore all logfiles and tempfiles.
+/log/*.log
+/tmp
+doc/
+*.txt
+img2/
+/uploads
+/bootstrap
+/font-awesome
+uploads/
+/whng-font
+*.swp
+*~
+.project
+.DS_Store
+.idea
+
+# Ignore vagrant files
+.vagrant/
